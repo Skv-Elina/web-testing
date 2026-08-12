@@ -4,4 +4,4 @@
 
 - [Тест-кейсы](./Test-Cases/Test-Cases_via-TestIT_WEB.pdf)
 - [Чек-лист](./Checklists/Checklist_WEB.pdf)
-- [Баг репорты](./Bug-Reports/Bug-Reports_via-Jira.pdf)
+- ![Jira](https://shields.io) [Баг репорты](./Bug-Reports/Bug-Reports_via-Jira.pdf)
