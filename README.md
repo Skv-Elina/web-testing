@@ -4,7 +4,7 @@
 
 [Интернет-магазин](https://intern.demoshopping.ru/) - сайт магазина.</br>
 
-Тестовая документация: </br>
+### Тестовая документация: </br>
 📋 [Тест-кейсы](./Test-Cases/Test-Cases_via-TestIT_WEB.pdf) - (Test IT)</br>
 ✅ [Чек-лист](./Checklists/Checklist_WEB.pdf)  - (Google Sheets)</br>
 🐞 [Баг репорты](./Bug-Reports/Bug-Reports_via-Jira.pdf) - (Jira)</br>
