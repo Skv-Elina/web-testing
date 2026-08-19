@@ -1,7 +1,10 @@
-# 🌐 Тестирование веб-приложений
+# 🛒Тестирование интернет-магазина
 
-В рамках курса было проведено тестирование [интернет-магазина](https://intern.demoshopping.ru/) и подготовлена тестовая документация:
+Проект включает функциональное тестирование, тестирование пользовательского интерфейса, проверку пользовательского ввода, негативное тестирование и проверку граничных значений.</br>
 
-- [Тест-кейсы](./Test-Cases/Test-Cases_via-TestIT_WEB.pdf)
-- [Чек-лист](./Checklists/Checklist_WEB.pdf)
-- [Баг репорты](./Bug-Reports/Bug-Reports_via-Jira.pdf)
+[Интернет-магазин](https://intern.demoshopping.ru/) - сайт магазина.</br>
+
+Тестовая документация: </br>
+📋 [Тест-кейсы](./Test-Cases/Test-Cases_via-TestIT_WEB.pdf) - (Test IT)</br>
+✅ [Чек-лист](./Checklists/Checklist_WEB.pdf)  - (Google Sheets)</br>
+🐞 [Баг репорты](./Bug-Reports/Bug-Reports_via-Jira.pdf) - (Jira)</br>
