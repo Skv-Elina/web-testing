@@ -1,10 +1,14 @@
 # 🛒Тестирование интернет-магазина
 
-Проект включает функциональное тестирование, тестирование пользовательского интерфейса, проверку пользовательского ввода, негативное тестирование и проверку граничных значений.</br>
+В рамках проекта выполнено:</br>
+&nbsp;&nbsp;• функциональное тестирование;</br>
+&nbsp;&nbsp;• позитивное и негативное тестирование;</br>
+&nbsp;&nbsp;• тестирование валидации;</br>
+&nbsp;&nbsp;• тестирование пользовательского интерфейса (UI)</br>
 
 [Интернет-магазин](https://intern.demoshopping.ru/) - сайт магазина.</br>
 
 ### Тестовая документация: </br>
-📋 [Тест-кейсы](./Test-Cases/Test-Cases_via-TestIT_WEB.pdf) - (Test IT)</br>
-✅ [Чек-лист](./Checklists/Checklist_WEB.pdf)  - (Google Sheets)</br>
-🐞 [Баг репорты](./Bug-Reports/Bug-Reports_via-Jira.pdf) - (Jira)</br>
+📋 [Тест-кейсы](./Test-Cases/Test-Cases_via-TestIT_WEB.pdf) - Test IT</br>
+✅ [Чек-лист](./Checklists/Checklist_WEB.pdf)  - Google Sheets</br>
+🐞 [Баг репорты](./Bug-Reports/Bug-Reports_via-Jira.pdf) - Jira</br>
